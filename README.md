@@ -32,10 +32,18 @@
 
     ## Visualizações e Dashboard
     * As visualizações foram inicialmente feitas em Excel/Sheets e posteriormente recriadas no power BI, visando maior interatividade.
-      <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorIdade.png" width = "600px" />
-      <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorEstadoCivilPizza.png" width = "600px" />
-      <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/VisitasMensais.png" width = "600px" />
-      <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorVinho.png" width = "600px" />
-      <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/ComprasDeFrutas.png" width = "600px" />
+
+    <table>
+    <tr>
+        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorIdade.png" width="200"/></td>
+        <td><img src="caminho/imagem3.png" width="200"/></td>
+        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorEstadoCivilPizza.png" width="200"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/VisitasMensais.png" width="200"/></td>
+        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorVinho.png" width="200"/></td>
+        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/ComprasDeFrutas.png" width="200"/></td>
+    </tr>
+    </table>
 
     * O dashboard final facilita a <b>compreensão visual dos insights</b> obtidos, com foco na <b>tomada de decisão estratégica</b> pela equipe de Marketing. 

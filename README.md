@@ -2,6 +2,7 @@
 ## Descrição do Projeto
 <p>Este Projeto é exercicío técnico proposto pelo iFood, com o objetivo de demonstrar habilidades em <b>análise descritiva</b> e <b>exploratória de dados.</b> Neste projeto tive o objetivo de dar foco na capacidade retornar Insights para a área de Marketing.</p>
 <p>Embora o desafio recomende o uso apenas de Excel e/ou Google Sheets, optei por também usar Power BI para enriquecer as visualizações e facilitar a interpretação dos dados por meio de dashboards.</p>
+<a href="https://docs.google.com/spreadsheets/d/1hMt7OEHsqoRIr7yyDn-v726opryyWNZkW_Cc5fWM6Ss/edit?usp=sharing">Acessem a Planilha</a>
 
 ## Tecnologias utilizadas
 * <b>Excel/Google Sheets:</b> Para análise, manioulação e criação de visualizações básicas dos dados.
@@ -21,7 +22,7 @@
  * Quanto esses clientes gastam com vinhos (produto mais vendido)?
  * Quanto gastam com frutas (produto menos vendido)?
 
-* <b>Identificação e Classificação dos Dados:</b> Os dados foram classificadps em categorias como: Informações dos clientes, dados de compras e categoria de produto.
+* <b>Identificação e Classificação dos Dados:</b> Os dados foram classificados em categorias como: Informações dos clientes, dados de compras e categoria de produto.
 
 * <b>Análise e Agrupamento de Dados:</b> 
     * Ordenei os clientes com base no total gasto e selecionei <b>20% com maior valor de compras</b>.

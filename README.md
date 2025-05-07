@@ -42,7 +42,7 @@
     <tr>
         <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/VisitasMensais.png" width="300"/></td>
         <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorVinho.png" width="300"/></td>
-        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/ComprasDeFrutas.png" width="300"/></td>
+        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoporFrutas.png" width="300"/></td>
     </tr>
     </table>
 

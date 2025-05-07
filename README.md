@@ -35,7 +35,7 @@
       <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorIdade.png" width = "600px" />
       <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorEstadoCivilPizza.png" width = "600px" />
       <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/VisitasMensais.png" width = "600px" />
-      <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/ComprasDeVinhos.png" width = "600px" />
+      <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorVinho.png" width = "600px" />
       <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/ComprasDeFrutas.png" width = "600px" />
 
     * O dashboard final facilita a <b>compreensão visual dos insights</b> obtidos, com foco na <b>tomada de decisão estratégica</b> pela equipe de Marketing. 

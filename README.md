@@ -35,14 +35,14 @@
 
     <table>
     <tr>
-        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorIdade.png" width="300"/></td>
-            <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorEstadoCivil.png" width="300"/></td>
-        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorEstadoCivilPizza.png" width="300"/></td>
+        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorIdade.jpeg" width="300"/></td>
+            <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorEstadoCivil.jpeg" width="300"/></td>
+        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorEstadoCivilPizza.jpeg" width="300"/></td>
     </tr>
     <tr>
-        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/VisitasMensais.png" width="300"/></td>
-        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorVinho.png" width="300"/></td>
-        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoporFrutas.png" width="300"/></td>
+        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/VisitasMensais.jpeg" width="300"/></td>
+        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorVinho.jpeg" width="300"/></td>
+        <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoporFrutas.jpeg" width="300"/></td>
     </tr>
     </table>
 

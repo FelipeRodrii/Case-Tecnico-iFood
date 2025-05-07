@@ -2,7 +2,7 @@
 ## Descrição do Projeto
 <p>Este Projeto é exercicío técnico proposto pelo iFood, com o objetivo de demonstrar habilidades em <b>análise descritiva</b> e <b>exploratória de dados.</b> Neste projeto tive o objetivo de dar foco na capacidade retornar Insights para a área de Marketing.</p>
 <p>Embora o desafio recomende o uso apenas de Excel e/ou Google Sheets, optei por também usar Power BI para enriquecer as visualizações e facilitar a interpretação dos dados por meio de dashboards.</p>
-* [Acesse a Planilha](https://docs.google.com/spreadsheets/d/1jzui9IWyv58nn7uF4kS05suG6v1kje3Y/edit?usp=sharing&ouid=110896719194475035283&rtpof=true&sd=true)
+[Acesse](https://docs.google.com/spreadsheets/d/1jzui9IWyv58nn7uF4kS05suG6v1kje3Y/edit?usp=sharing&ouid=110896719194475035283&rtpof=true&sd=true)
 
 ## Tecnologias utilizadas
 * <b>Excel/Google Sheets:</b> Para análise, manioulação e criação de visualizações básicas dos dados.

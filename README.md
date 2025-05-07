@@ -22,7 +22,7 @@
  * Quanto esses clientes gastam com vinhos (produto mais vendido)?
  * Quanto gastam com frutas (produto menos vendido)?
 
-* <b>Identificação e Classificação dos Dados:</b> Os dados foram classificadps em categorias como: Informações dos clientes, dados de compras e categoria de produto.
+* <b>Identificação e Classificação dos Dados:</b> Os dados foram classificados em categorias como: Informações dos clientes, dados de compras e categoria de produto.
 
 * <b>Análise e Agrupamento de Dados:</b> 
     * Ordenei os clientes com base no total gasto e selecionei <b>20% com maior valor de compras</b>.

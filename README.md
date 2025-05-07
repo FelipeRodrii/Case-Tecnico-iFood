@@ -36,7 +36,6 @@
     <table>
     <tr>
         <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorIdade.png" width="200"/></td>
-        <td><img src="caminho/imagem3.png" width="200"/></td>
         <td><img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorEstadoCivilPizza.png" width="200"/></td>
     </tr>
     <tr>

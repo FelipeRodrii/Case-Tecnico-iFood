@@ -27,8 +27,15 @@
 * <b>Análise e Agrupamento de Dados:</b> 
     * Ordenei os clientes com base no total gasto e selecionei <b>20% com maior valor de compras</b>.
     * Agrupei os dados por <b>intervalos de idade, tempo de casa, gasto com vinhos e frutas</b>(Conjunto de itens mais caros e mais baratos respectivamente), além de outras variaveis relevantes.
+      <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/IntervalosCriados.png" width = "600px" />
     * Usei <b>tabelas dinâmicas</b> para facilitar a nálise e a criação de gráficos que evidenciam os padrões de comportamento dos clientes mais lucrativos.
 
     ## Visualizações e Dashboard
     * As visualizações foram inicialmente feitas em Excel/Sheets e posteriormente recriadas no power BI, visando maior interatividade.
+      <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorIdade.png" width = "600px" />
+      <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/maiorGastoPorEstadoCivilPizza.png" width = "600px" />
+      <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/VisitasMensais.png" width = "600px" />
+      <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/ComprasDeVinhos.png" width = "600px" />
+      <img src="https://github.com/FelipeRodrii/Case-Tecnico-iFood/blob/main/imgs/ComprasDeFrutas.png" width = "600px" />
+
     * O dashboard final facilita a <b>compreensão visual dos insights</b> obtidos, com foco na <b>tomada de decisão estratégica</b> pela equipe de Marketing. 
